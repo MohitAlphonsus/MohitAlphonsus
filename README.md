@@ -55,14 +55,14 @@ I love building and learning something new everyday.
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%" style="scrollbar-width:none; overflow:hidden">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohitAlphonsus&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohitAlphonsus&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitAlphonsus&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohitAlphonsus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitAlphonsus&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MohitAlphonsus&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
