@@ -56,7 +56,7 @@ I love building and learning something new everyday.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" style="scrollbar-width:none; overflow:hidden">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MohitAlphonsus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
