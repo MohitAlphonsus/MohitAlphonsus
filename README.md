@@ -25,32 +25,15 @@ I love building and learning something new everyday.
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
 - 💻  I'm Looking for work  
   
-
-- 🔭 I’m currently working on e-commerce website,  initial designing process.  
-  
+- 🔭 I’m currently working on e-commerce website,  initial designing process.    
 
 - 🌱 I’m currently learning NextJS and TypeScript  
   
-
 - ❓ Ask me about anything related to HTML5/CSS3/JS  
   
-
 - ⚡ In free time I play video game, cook or read a novel 😊.  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
