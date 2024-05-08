@@ -35,6 +35,7 @@ I love building and learning something new everyday.
   
 - ⚡ In free time I play video game, cook or read a novel 😊.  
 
+<br/>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -54,12 +55,13 @@ I love building and learning something new everyday.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MohitAlphonsus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
+</div>
+<div valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitAlphonsus&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</div>
 
 
