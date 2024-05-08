@@ -57,7 +57,7 @@ I love building and learning something new everyday.
 
 ## Github Stats  
 <div width="100%" style="display:flex; gap:10px"}>
-  <div valign="top" width="50%" style="background:none">
+  <div valign="top" width="50%" style="background:transparent">
     <img src="https://github-readme-stats.vercel.app/api?username=MohitAlphonsus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
   </div>
   <div valign="top" width="50%" style="background:none">
