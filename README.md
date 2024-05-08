@@ -16,7 +16,6 @@
   
 
 
-
 ### Glad to see you here!  
 I’m a front-end developer - from curious to having a good grasp on web development technologies. 
 
@@ -25,15 +24,15 @@ I love building and learning something new everyday.
 
 <br/>  
 
-- 💻  I'm Looking for work  
+💻  I'm Looking for work  
   
-- 🔭 I’m currently working on e-commerce website,  initial designing process.    
+🔭 I’m currently working on e-commerce website,  initial designing process.    
 
-- 🌱 I’m currently learning NextJS and TypeScript  
+🌱 I’m currently learning NextJS and TypeScript  
   
-- ❓ Ask me about anything related to HTML5/CSS3/JS  
+ ❓ Ask me about anything related to HTML5/CSS3/JS  
   
-- ⚡ In free time I play video game, cook or read a novel 😊.  
+⚡ In free time I play video game, cook or read a novel 😊.  
 
 <br/>  
 
